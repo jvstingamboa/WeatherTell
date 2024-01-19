@@ -1,0 +1,10 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url(../Weather-App/background.png);
+}
+.body{
+    height: auto;
+    width: auto;
+    border: 5px solid;
+
+}
